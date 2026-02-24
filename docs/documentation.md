@@ -41,3 +41,26 @@ It stores student names and marks, calculates averages, assigns grades, and gene
 
 ## Conclusion
 The system demonstrates the use of arrays, loops, and conditional logic in Java to manage student academic data efficiently.
+
+## Program Screenshots
+
+### Program Structure
+![Program Structure](project2.png)
+
+### Grade Calculation Function
+![Grade Calculation](project2.1.png)
+
+### Search Student Function
+![Search Student](project2.2.png)
+
+### Top Performer Output
+![Top Performer](project2.3.png)
+
+### Report Generation
+![Report](project2.4.png)
+
+### Student System Menu
+![Menu](screenshot1.png)
+
+### Student System Operations
+![Operations](screenshot2.png)
